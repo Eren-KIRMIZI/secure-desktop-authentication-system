@@ -2,6 +2,15 @@
 
 Python ve Tkinter ile geliştirilen bu masaüstü uygulaması, modern kriptografik yöntemler kullanarak kullanıcı kimlik doğrulamasını güvenli biçimde gerçekleştirir. Hassas verilere erişim gerektiren uygulamalar için şifreli, brute-force korumalı ve kullanıcı dostu bir giriş katmanı sunar.
 
+<img width="436" height="343" alt="image" src="https://github.com/user-attachments/assets/51dbb62d-5613-48d7-9476-3a8a64319bd6" />
+
+<img width="731" height="181" alt="image" src="https://github.com/user-attachments/assets/5df2883a-9641-4283-a15b-b56d637b7d13" />
+
+<img width="732" height="419" alt="image" src="https://github.com/user-attachments/assets/98e5ae31-11a4-48f3-88dd-3eb5c78f1df0" />
+
+<img width="196" height="155" alt="image" src="https://github.com/user-attachments/assets/037a3a28-fe01-420b-b3cf-6ec32a4ecf3d" />
+
+
 ## Özellikler
 
 ### Güvenlik Özellikleri
